@@ -4,13 +4,13 @@ module.exports = function(server) {
         path: '/',
         handler: function(request, reply) {
             const model = {
-                'name': 'Rest APi',
+                'name': 'Rest API',
                 'status': 'running',
                 'version': "1.0.0",
                 'description': 'Restful node'
             }
             reply(model);
-            console.log(request.path)
+            console.log("GET : " + server.info.uri + request.path)
         }
     });
 }

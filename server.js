@@ -13,8 +13,7 @@ server.connection({
 
 // importando rotas
 require('./routes/base')(server);
-
-// require('./routes/users/user')(baseApi, server, connection, Joi);
+require('./routes/alunos/aluno')(baseApi, server, connection, Joi);
 
 // iniciando server
 server.start((err) => {
