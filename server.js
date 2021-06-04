@@ -14,6 +14,8 @@ server.connection({
 // importando rotas
 require('./routes/base')(server);
 require('./routes/alunos/aluno')(baseApi, server, connection, Joi);
+require('./routes/cursos/curso')(baseApi, server, connection, Joi);
+require('./routes/cursos_alunos/curso_aluno')(baseApi, server, connection, Joi);
 
 // iniciando server
 server.start((err) => {

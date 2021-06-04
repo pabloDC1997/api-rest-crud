@@ -1,0 +1,44 @@
+# Alunos
+{
+    "nome": "Pablo Couto",
+    "matricula": 20142003301045
+}
+
+{
+    "nome": "Marcelo Marques",
+    "matricula": 20142003301046
+}
+
+{
+    "nome": "Denis Xavier",
+    "matricula": 20142003301047
+}
+
+{
+    "nome": "Alessandro Neves",
+    "matricula": 20142003301048
+}
+
+# Cursos
+
+{
+    "nome": "Algoritimos",
+    "codigo": "CMP1044"
+}
+
+{
+    "nome": "Fundamentos da Computação 1",
+    "codigo": "CMP1045"
+}
+
+{
+    "nome": "Laboratório de Programação",
+    "codigo": "CMP1046"
+}
+
+{
+    "nome": "Engenharia de Software",
+    "codigo": "CMP1280"
+}
+
+# curso_aluno
