@@ -1,0 +1,5 @@
+Instruções
+O modelo entidade relacionamento que segue em anexo, representa o conjunto de recursos a ser utilizado na aplicação.
+A partir deste modelo você deve definir uma API REST com CRUD para cada um dos recursos identificados no modelo. A linguagem e o banco de dados da respectiva aplicação fica a critério dos autores. 
+Lembrete: Em anexo uma imagem que pode ajuda-los a lembrar do conceito de CRUD.
+Esta atividade pode ser realizada em grupos de até 3 alunos. Uma vez concluída a atividade o grupo deverá agendar a apresentação da respectiva aplicação. Neste momento será realizada uma avaliação oral e individual sobre os conceitos e técnicas empregados na construção da aplicação.  
