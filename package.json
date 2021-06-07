@@ -1,7 +1,7 @@
 {
-  "name": "DiscoolServer",
+  "name": "API REST",
   "version": "1.0.0",
-  "description": "Restful node base para app Discool",
+  "description": "Restful node",
   "main": "server.js",
   "scripts": {
     "start": "node server"
